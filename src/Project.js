@@ -89,7 +89,7 @@ function Project() {
           <Bubble delay="0" name="Java"></Bubble>
           <Bubble delay="50" name="HTML/CSS"></Bubble>
           <Bubble delay="150" name="Spring Boot"></Bubble>
-          <Bubble delay="200" name="Tabu Search"></Bubble>
+          <Bubble delay="200" name="Tabu Search Algorithm"></Bubble>
         </div>
       
       </div>
@@ -126,14 +126,11 @@ function Project() {
         </div>
         </a>
         <div className="bubble-container">
-          <Bubble delay="0" name="Android"></Bubble>
-          <Bubble delay="50" name="Python"></Bubble>
-          <Bubble delay="150" name="Java"></Bubble>
-          <Bubble delay="200" name="Tensorflow"></Bubble>
-          <Bubble delay="250" name="Flask"></Bubble>
-          <Bubble delay="300" name="ML Kit"></Bubble>
-          <Bubble delay="300" name="Google Cloud API"></Bubble>
-          <Bubble delay="350" name="Azure Vision API"></Bubble>
+          <Bubble delay="0" name="PyTorch"></Bubble>
+          <Bubble delay="50" name="Vision Transformer"></Bubble>
+          <Bubble delay="150" name="Self-supervised Learning"></Bubble>
+          <Bubble delay="200" name="Knowledge Distillation"></Bubble>
+          <Bubble delay="250" name="DINO"></Bubble>
         </div>
       
       </div>
@@ -148,14 +145,11 @@ function Project() {
         </div>
         </a>
         <div className="bubble-container">
-          <Bubble delay="0" name="Android"></Bubble>
-          <Bubble delay="50" name="Python"></Bubble>
-          <Bubble delay="150" name="Java"></Bubble>
-          <Bubble delay="200" name="Tensorflow"></Bubble>
-          <Bubble delay="250" name="Flask"></Bubble>
-          <Bubble delay="300" name="ML Kit"></Bubble>
-          <Bubble delay="300" name="Google Cloud API"></Bubble>
-          <Bubble delay="350" name="Azure Vision API"></Bubble>
+          <Bubble delay="0" name="PyTorch"></Bubble>
+          <Bubble delay="50" name="Tensorflow"></Bubble>
+          <Bubble delay="150" name="Domain adaptation"></Bubble>
+          <Bubble delay="200" name="Semi-supervised Learning"></Bubble>
+          <Bubble delay="250" name="MATLAB"></Bubble>
         </div>
       
       </div>

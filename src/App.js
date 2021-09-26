@@ -49,13 +49,13 @@ function App() {
       <div class="navbar" style={{"position":"fixed", "top": "0px", "left":"0px"}}>
         <div class="navlist-wrapper">
           <ul>
-            <li class="navbar-item">Home</li>
+            <a href="#header"><li class="navbar-item">Home</li></a>
             <a href="https://drive.google.com/file/d/1rlUDqrZ-80NVaJFr_dq-81zT69rAWx56/view?usp=sharing"><li class="navbar-item">Resume</li></a>
             <a href="#project"><li class="navbar-item">Projects</li></a>
           </ul>
         </div>
       </div>
-      <header className="App-header">
+      <header id="header" className="App-header">
        <h1 className = 'title'> KYUHEE JO </h1>
        <h3 className = 'email'> Hacker, Researcher, Developer </h3>
        <div className="logo-container">
