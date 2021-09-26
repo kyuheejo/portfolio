@@ -8,7 +8,7 @@ import 'aos/dist/aos.css';
 import { black } from 'chalk';
 import { REGEX_BACKSLASH } from 'picomatch/lib/constants';
 import { useState } from 'react';
-
+import sparetime from './images/sparetime.png'
 
 
 function Project() {
@@ -45,8 +45,26 @@ function Project() {
       
       </div>
       <div className="project-card">
-        <div className="project-item"></div>
-        <Bubble></Bubble>
+      <a href="https://docs.google.com/presentation/d/1nbb1V8Z8FblYuvm0ALzkDCCE3suLEa6g6tfSCUaRSgg/edit?usp=sharing">
+        <div style={{backgroundImage: `url(${sparetime}`, backgroundSize: "cover", backgroundPosition: "center", backgroundRepeat:"no-repeat"}} className="project-item">
+        
+          <div style={{backgroundColor: "rgba(0, 0, 0, 0.6)", margin: "0"}} className="project-description">
+          <p class="p my-auto mx-auto w-75" style={{color: "white"}}> Android Application </p>
+          </div>
+          
+        </div>
+        </a>
+        <div className="bubble-container">
+          <Bubble delay="0" name="Android"></Bubble>
+          <Bubble delay="50" name="Python"></Bubble>
+          <Bubble delay="150" name="Java"></Bubble>
+          <Bubble delay="200" name="Tensorflow"></Bubble>
+          <Bubble delay="250" name="Flask"></Bubble>
+          <Bubble delay="300" name="ML Kit"></Bubble>
+          <Bubble delay="300" name="Google Cloud API"></Bubble>
+          <Bubble delay="350" name="Azure Vision API"></Bubble>
+        </div>
+      
       </div>
       <div className="project-card">
         <div className="project-item"></div>
