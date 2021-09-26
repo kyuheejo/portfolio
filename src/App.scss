@@ -109,11 +109,19 @@ a:link {
   }
 
   .navbar-item{
+    display: inline-block;
+    justify-content: center;
+    list-style-type: none;
+    font-family: DM Sans;
     width:auto;
+    color:var(--cream);
+    font-size:medium;
+    font-weight:550;
+    font-weight:bold;
+    z-index:2;
     margin-left:5%;
-    margin-right:5%
+    margin-right:5%;
   }
-
 
 
   .navlist-wrapper{
@@ -209,12 +217,14 @@ a:link {
   justify-content: center;
   list-style-type: none;
   font-family: DM Sans;
-  width:10%;
+  width:auto;
   color:var(--cream);
   font-size:medium;
   font-weight:550;
   font-weight:bold;
   z-index:2;
+  margin-left:2%;
+  margin-right:2%;
 }
 
 .navbar {
