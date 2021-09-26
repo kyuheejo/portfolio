@@ -73,7 +73,7 @@ function Project() {
       
       </div>
       <div style={{width:"100%", paddingTop: "100px", paddingBottom: "20px"}}>
-      <h1 className="project-category" data-aos="fade-right" data-aos-duration="700" data-aos-delay="500">Web Application</h1>
+      <h1 className="project-category" data-aos="fade-right" data-aos-duration="700" data-aos-delay="200">Web Application</h1>
       </div>
       <div className="project-card">
       <a href="https://docs.google.com/presentation/d/1nbb1V8Z8FblYuvm0ALzkDCCE3suLEa6g6tfSCUaRSgg/edit?usp=sharing">
@@ -113,7 +113,7 @@ function Project() {
       
       </div>
       <div style={{width:"100%", paddingTop: "100px", paddingBottom: "20px"}}>
-      <h1 className="project-category" data-aos="fade-right" data-aos-duration="700" data-aos-delay="500">ML/AI Research</h1>
+      <h1 className="project-category" data-aos="fade-right" data-aos-duration="700" data-aos-delay="200">ML/AI Research</h1>
       </div>
       <div className="project-card">
       <a href="https://docs.google.com/presentation/d/1nbb1V8Z8FblYuvm0ALzkDCCE3suLEa6g6tfSCUaRSgg/edit?usp=sharing">
