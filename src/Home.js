@@ -99,7 +99,7 @@ function Home() {
         <hr style={{opactiy:80,width:"30%", backgroundColor:"#F9F1F0", margin:"0px", paddingLeft:"10px", paddingRight:"10px"}}>
         </hr></center>
       <div className="footer" style={{backgroundColor:"#F9F1F0"}}>
-        <h5 className="comments" >Built from scratch using React, HTML/CSS and JavaScript </h5>
+        <h5 className="comments" >In honor of Jimmy Shi</h5>
         <h5 className="comments" > © Kyuhee Jo kjo3@jhu.edu</h5>
       </div>
   
